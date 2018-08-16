@@ -1,2 +1,4 @@
 # torch_demo
-some small demo programms for pytorch
+
+Illustrative material for habrahabr publication
+about uniform points distribution on sphere
